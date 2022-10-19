@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A_star_algorithm", "A_star_algorithm.vcxproj", "{2A07BD2F-9B0B-463F-955C-195486D9005D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A07BD2F-9B0B-463F-955C-195486D9005D}.Debug|x64.ActiveCfg = Debug|x64
+		{2A07BD2F-9B0B-463F-955C-195486D9005D}.Debug|x64.Build.0 = Debug|x64
+		{2A07BD2F-9B0B-463F-955C-195486D9005D}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A07BD2F-9B0B-463F-955C-195486D9005D}.Debug|x86.Build.0 = Debug|Win32
+		{2A07BD2F-9B0B-463F-955C-195486D9005D}.Release|x64.ActiveCfg = Release|x64
+		{2A07BD2F-9B0B-463F-955C-195486D9005D}.Release|x64.Build.0 = Release|x64
+		{2A07BD2F-9B0B-463F-955C-195486D9005D}.Release|x86.ActiveCfg = Release|Win32
+		{2A07BD2F-9B0B-463F-955C-195486D9005D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CE71501-0DF8-481D-9D1F-225E17740058}
+	EndGlobalSection
+EndGlobal
